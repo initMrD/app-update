@@ -1,0 +1,26 @@
+{
+  "name": "@initmrd/app-update",
+  "version": "0.0.1",
+  "description": "",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "@ionic-native/core": "^4.2.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "author": {
+    "name": "initmrd"
+  },
+  "bugs": {
+    "url": "https://github.com/initMrD/app-update/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/initMrD/app-update.git"
+  },
+  "license": "MIT"
+}

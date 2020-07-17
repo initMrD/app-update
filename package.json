@@ -1,6 +1,6 @@
 {
   "name": "@initmrd/app-update",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "",
   "module": "index.js",
   "typings": "index.d.ts",
